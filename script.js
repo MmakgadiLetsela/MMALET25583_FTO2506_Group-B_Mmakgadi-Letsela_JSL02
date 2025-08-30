@@ -12,7 +12,7 @@ userStatus_1 =alert("Invalid status. Please enter 'todo', 'doing', or 'done'.");
 }
 if (userStatus_1 === validStatus) {
 }
-console.log(userStatus_1);
+console.log(userStatus_1.toLowerCase());
 
 // TASK TWO
 let title_2 =prompt("Enter task 2 title:")
@@ -27,4 +27,4 @@ userStatus_2 =alert("Invalid status. Please enter 'todo', 'doing', or 'done'.");
 }
 if (userStatus_2 === validStatus) {
 }
-console.log(userStatus_2);
+console.log(userStatus_2.toLowerCase);
