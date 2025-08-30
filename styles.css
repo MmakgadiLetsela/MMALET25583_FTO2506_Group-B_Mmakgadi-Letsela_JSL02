@@ -84,6 +84,9 @@ h4 {
   cursor: pointer;
   overflow: hidden; /* Prevents overflowed text/icons from showing */
 }
+.board-btn:hover{
+  background-color: #A8A4FF;
+}
 
 /* ===============
    Main Layout
@@ -127,7 +130,6 @@ header {
   display: flex;
   flex-direction: column;
   padding-left: 35px;
-  box-sizing: border-box;
 }
 
 .card-column-main {
