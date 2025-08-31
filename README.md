@@ -1,7 +1,7 @@
 # TASK INPUT AND STATUS VALIDATION SYSTEM ♟️
 
 ## Project Description 📗
-This projects involves using Javascript to implement a task-based entry system where users can input complete details that are then stored in variables. 
+This projects involves using Javascript to implement a task-based entry system where users can input complete details that are then stored in variables.   
 The system will guide the users to enter titles, descriptions and statuses for two seperate tasks, enforcing correct formatting to ensure consistency. 
 
 ## Technologies used ⚙️
@@ -22,7 +22,6 @@ The system will guide the users to enter titles, descriptions and statuses for t
 - Prompts will appear that you can use to input details.
 - Alerts will ensure you enter valid details. 
 - Log messages will inform you of any additonal information.
-- 
 
 ## Acknowledgments 🧑‍🤝‍🧑
 - This project was completed by Mmakgadi Bonolo Letsela for JSL02.
