@@ -22,10 +22,11 @@ The system will guide the users to enter titles, descriptions and statuses for t
 - Prompts will appear that you can use to input details.
 - Alerts will ensure you enter valid details. 
 - Log messages will inform you of any additonal information.
+- 
 
 ## Acknowledgments 🧑‍🤝‍🧑
 - This project was completed by Mmakgadi Bonolo Letsela for JSL02.
 
 ## Contact Details ☎️
-LinkedIn: www.linkedin.com/in/mmakgadi-letsela
+LinkedIn: www.linkedin.com/in/mmakgadi-letsela  
 Email:    mmakgadi.letsela@gmail.com
