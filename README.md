@@ -1,52 +1,31 @@
-# JSL02 Project Brief: Task Input and Status Validation System
+# TASK INPUT AND STATUS VALIDATION SYSTEM ♟️
 
-## Important Prerequisite
+## Project Description 📗
+This projects involves using Javascript to implement a task-based entry system where users can input complete details that are then stored in variables. 
+The system will guide the users to enter titles, descriptions and statuses for two seperate tasks, enforcing correct formatting to ensure consistency. 
 
-1. Before starting this challenge, ensure that you have **corrected your JSL01 project (HTML and CSS)** using the solution provided. This will help maintain consistency and ensure you build on a solid foundation.
-2. **Check the project user stories in your student dashboard**, make sure you understand what is required for each feature.
+## Technologies used ⚙️
+- HTML 
+- CSS
+- Javascript
 
-## Overview
+## Features Created And Updated ⚒️
+- Linked a Javascript file.
+- Added task 1 and 2 title, description and status prompts.
+- Added task 1 and 2 status loop to ensure that correct input is validated.
+- Automatically changed status input to lowercase.
+- Added an alert that triggers if no tasks have a status of "done".
+- Added a log to showcase the title and status of any task that has a status of "done".
 
-This project involves implementing a JavaScript-based task entry system where users can input two tasks with complete details, ensuring data consistency and validation. The system will guide users through entering valid task titles, descriptions, and statuses, enforcing correct formatting while maintaining code clarity and maintainability.
+## Set-up and Interaction Instructions 🚧
+- Click on project link to open web page; supported by Chrome, Mozilla and Explorer. 
+- Prompts will appear that you can use to input details.
+- Alerts will ensure you enter valid details. 
+- Log messages will inform you of any additonal information.
 
-## Key Objectives
+## Acknowledgments 🧑‍🤝‍🧑
+- This project was completed by Mmakgadi Bonolo Letsela for JSL02.
 
-### Logic & User Interaction
-
-- Ensure the JavaScript file is correctly linked to the HTML document.
-- Prompt the user to enter details (title, description, status) for two separate tasks and store them in variables.
-- Convert all status inputs to lowercase automatically for consistency.
-- Validate the status input to allow only "todo", "doing", or "done" and repeatedly prompt the user until a valid status is entered.
-- Display the title and status of completed tasks (status: "done") in the console.
-- If no tasks are marked as "done", show a motivational message in the console: "No tasks completed, let's get to work!".
-
-## Code Quality & Maintainability
-
-- Use descriptive variable names to enhance readability and maintainability.
-- Include clear comments explaining complex logic and functionality for easier understanding.
-
-## Expected Outcome
-
-A functional task entry system that ensures accurate data collection, validation, and structured storage while maintaining clean and well-documented code for easy future modifications.
-
-**Prompt Input Example**
-
-- The program must prompt users for task 1 title, descrition and status inputs, it must do the same for task 2 information
-
-  ![title prompt](./explainer-images/title%20prompt.png)
-
-**Invalid status**
-
-- If the user enters a status other than `todo`, `doing` or `done`, the program must alert the user of this and return to prompting them to enter a status.
-
-  ![invalid status](./explainer-images/invalid%20status.png)
-
-**Console log**
-
-- When there is a completed task:
-
-  ![invalid status](./explainer-images/completed%20task%20log.png)
-
-- When there are no completed tasks:
-
-  ![invalid status](./explainer-images/no%20completed%20tasks%20log.png)
+## Contact Details ☎️
+LinkedIn: www.linkedin.com/in/mmakgadi-letsela
+Email:    mmakgadi.letsela@gmail.com
